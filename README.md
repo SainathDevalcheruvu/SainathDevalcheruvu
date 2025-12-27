@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @SainathDevalcheruvu  
-- 👀 I’m interested in Sytems Engineer, Database Management, Cloud Technologies, and Machine Learning Projects.  
-- 🌱 I’m currently learning Oracle DB administration, cloud platforms like AWS and Azure, and exploring AI/ML applications.  
-- 💞️ I’m looking to collaborate on open-source projects, database optimization tools, and real-time AI applications like fake news detection.  
+- 👋 Hi, I’m @SainathDevalcheruvu    
 - 📫 How to reach me: dsainath007@gmail.com | [LinkedIn](https://www.linkedin.com/in/sainath-d-62b155197)  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I once managed 15+ technical and cultural events with a team of 20+ volunteers—and still found time to play cricket and reach the finals in volleyball!
